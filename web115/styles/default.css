@@ -15,7 +15,7 @@ main{
 }
 header {
 	font-family: "Telegraf", sans-serif;
-	src: url("fonts/garet-book.otf");
+	src: url("fonts/garet-book.otf") format: "otf";
 	color: #FF6ECF; 
 }
 h2 {
@@ -24,7 +24,7 @@ h2 {
 }
 p {
 	font-family: "Garet Book", Garet, sans-serif;
-	src: url("fonts/garet-book.otf);
+	src: url("fonts/garet-book.otf) format: "otf";
 	color: #AD56C3
 }	
 body {
@@ -32,7 +32,7 @@ body {
     max-width: 1250px;
     background-color:#000000; 
     font-family: "Garet Book", Garet, sans-serif;
-    src: url("fonts/garet-book.otf);
+    src: url("fonts/garet-book.otf) format: "otf";
     margin: 0 auto;
     padding: 0;
     text-align: center;
