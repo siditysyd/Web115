@@ -1,5 +1,4 @@
 /* General setup */
-@charset "utf-8";
 
 html, body {
 /* Increase font size for desktop */
@@ -23,6 +22,9 @@ header {
 	font-family: "Telegraf", sans-serif;
 	src: url("/fonts/Telegraf.otf") format('opentype');
 	color: #FF6ECF; 
+}
+h1 { 
+	margin: 0 auto;
 }
 h2 {
 	color: #046362
@@ -82,7 +84,7 @@ a:hover {
 a:focus {
 	outline: thin dotted;
 }
-h1, h2, h3, h4, h5, h6 {
+h3, h4, h5, h6 {
 	text-align: center;
 }
 footer {
