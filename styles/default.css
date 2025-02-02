@@ -1,5 +1,4 @@
 /* General setup */
-@charset "utf-8";
 
 html, body {
 /* Increase font size for desktop */
@@ -19,6 +18,10 @@ header {
 	font-family: "Telegraf", sans-serif;
 	color: #FF6ECF; 
 }
+h1 { 
+	margin: 0 auto; 
+}
+	
 h2 {
 	color: #046362
 }
