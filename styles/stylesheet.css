@@ -15,9 +15,12 @@ main{
     flex-direction: column;
     justify-content: center;	
 }
+@font-face {
+    font-family: "Telegraf";
+    src: url('fonts/Telegraf.otf') format('opentype');
 header {
 	font-family: "Telegraf", sans-serif;
-	src: url("fonts/Telegraf.otf") format: 'otf';
+	src: url("fonts/Telegraf.otf") format('opentype');
 	color: #FF6ECF; 
 }
 h2 {
