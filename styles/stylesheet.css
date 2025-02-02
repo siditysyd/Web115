@@ -17,10 +17,10 @@ main{
 }
 @font-face {
     font-family: "Telegraf";
-    src:'/fonts/Telegraf.otf' format('opentype');
+    src:url('/fonts/Telegraf.otf') format('opentype');
 header {
 	font-family: "Telegraf", sans-serif;
-	src: "/fonts/Telegraf.otf" format('opentype');
+	src: url("/fonts/Telegraf.otf") format('opentype');
 	color: #FF6ECF; 
 }
 h2 {
@@ -28,7 +28,7 @@ h2 {
 }
 @font-face {
     font-family: "Garet Book";
-    src:'/fonts/Garet-Book.otf' format('opentype');
+    src: url('/fonts/Garet-Book.otf') format('opentype');
 }
 
 p {
