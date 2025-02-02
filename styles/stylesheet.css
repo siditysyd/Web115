@@ -23,10 +23,14 @@ header {
 h2 {
 	color: #046362
 }
+@font-face {
+    font-family: "Garet Book";
+    src: url('fonts/garet-book.otf') format('opentype');
+}
+
 p {
-	font-family: "Garet Book", Garet, sans-serif;
-	src: url('fonts/garet-book.otf') format: 'otf';
-	color: #AD56C3
+    font-family: "Garet Book", Garet, sans-serif;
+    color: #AD56C3;
 }	
 body {
     width: 90%;	
