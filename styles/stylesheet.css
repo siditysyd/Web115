@@ -17,10 +17,10 @@ main{
 }
 @font-face {
     font-family: "Telegraf";
-    src: url('fonts/Telegraf.otf') format('opentype');
+    src:'fonts/Telegraf.otf' format('opentype');
 header {
 	font-family: "Telegraf", sans-serif;
-	src: url("fonts/Telegraf.otf") format('opentype');
+	src: "fonts/Telegraf.otf" format('opentype');
 	color: #FF6ECF; 
 }
 h2 {
