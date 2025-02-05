@@ -17,6 +17,7 @@ main{
 .brand-info {
 	margin-left: auto;
 	margin-right: auto;
+	padding: 5px; 
 }
 @font-face {
     font-family: "Telegraf";
