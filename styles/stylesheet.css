@@ -6,7 +6,7 @@ html, body {
 }
 html {
 /* Set background color for desktop */
-    background-color: #C7C804;
+    background: linear-gradient(90deg, #FF6ECF, #FE696E, #74B0BF, #C7C804, #F8C954);
     margin: 0 auto;
 }
 main{
