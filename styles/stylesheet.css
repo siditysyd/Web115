@@ -6,7 +6,7 @@ html, body {
 }
 html {
 /* Set background color for desktop */
-    background: linear-gradient(90deg, #FF6ECF, #FE696E, #74B0BF, #C7C804, #F8C954);
+    background-color: black;
     margin: 0 auto;
 }
 main{
@@ -45,7 +45,7 @@ p {
 body {
     width: 90%;	
     max-width: 1250px;
-    background-color:#000000; 
+    background: linear-gradient(90deg, #FF6ECF, #FE696E, #74B0BF, #C7C804, #F8C954);
     font-family: "Garet Book", Garet, sans-serif;
     margin: 0 auto;
     padding: 0;
