@@ -17,7 +17,7 @@ main{
 .brand-info {
 	margin-left: auto;
 	margin-right: auto;
-	padding: 5px; 
+	padding: 15px; 
 }
 @font-face {
     font-family: "Telegraf";
@@ -45,7 +45,7 @@ p {
 body {
     width: 90%;	
     max-width: 1250px;
-    background: linear-gradient(90deg, #FF6ECF, #FE696E, #74B0BF, #C7C804, #F8C954);
+    background: linear-gradient(90deg, #f21dac, #f54e1b, #F8C954, #C7C804, #74B0BF, #df1bf5);
     font-family: "Garet Book", Garet, sans-serif;
     margin: 0 auto;
     padding: 0;
